@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Marcos, and I have a very specific set of skills.
+
+get in touch -> linktr.ee/torresmjr
+
 <!--
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
