@@ -2,7 +2,7 @@
 
 My name is Marcos, and I have a very specific set of skills.
 
-:link::deciduous_tree: [get in touch](linktr.ee/torresmjr)
+get in touch :point_right: https://linktr.ee/torresmjr :link::deciduous_tree:
 
 [![HitCount](https://hits.dwyl.com/marcmam2/marcmam2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/marcmam2/marcmam2)
 
