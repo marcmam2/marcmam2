@@ -4,9 +4,9 @@ My name is Marcos, and I have a very specific set of skills.
 
 :link::deciduous_tree: [get in touch](linktr.ee/torresmjr)
 
-[![HitCount](http://hits.dwyl.com/marcmam2/marcmam2.svg)](http://hits.dwyl.com/marcmam2/marcmam2)
+[![HitCount](https://hits.dwyl.com/marcmam2/marcmam2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/marcmam2/marcmam2)
 
-Thank You!:heart:
+Thank You! :heart:
 
 <!--
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
