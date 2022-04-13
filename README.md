@@ -2,13 +2,18 @@
 
 My name is Marcos, and I have a very specific set of skills.
 
-
-
 #### Get in touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcmam2)
 [![email](https://img.shields.io/badge/-email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
 
 :point_right: https://linktr.ee/torresmjr :link::deciduous_tree:
+
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=marcmam2">
+<p>
+
+
 
 [![HitCount](https://hits.dwyl.com/marcmam2/marcmam2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/marcmam2/marcmam2)
 
