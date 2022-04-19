@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+<img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
+
 My name is Marcos, and I have a very specific set of skills.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&layout=compact&theme=tokyonight" alt="languages" height="165">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my github stats" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&layout=compact&theme=tokyonight" alt="languages" height="140">
 </p>
 
 ---
