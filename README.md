@@ -14,8 +14,9 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 ---
 
 #### Get in touch
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcmam2)
-[![email](https://img.shields.io/badge/-email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
+[![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/marcmam2) (yes, yes, I know...)
 
 :link::deciduous_tree: https://linktr.ee/torresmjr :point_left:
 
