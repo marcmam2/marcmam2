@@ -2,7 +2,7 @@
 
 <img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
 
-My name is Marcos, and I have a very specific set of skills.
+My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
 ---
 
