@@ -18,7 +18,7 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 
 ---
 
-#### Get in touch
+#### Say hi, I'll be happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/marcmam2) (yes, yes, I know...)
@@ -58,5 +58,11 @@ cool emojis:
 <a href="https://www.linkedin.com/in/andré-mapa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="mailto:andreomapa01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+```javascript
+const me = {
+  hobbies: [memes, anime, business (yeah!), did I say anime?, talk about cool ideas, learn],
+}
+```
 
 -->
