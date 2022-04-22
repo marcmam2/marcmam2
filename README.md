@@ -13,7 +13,7 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 </a>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub statistics" width="360"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub statistics" width="384"/>
 </p>
 
 ---
@@ -50,5 +50,8 @@ cool emojis:
 🎓 :mortar_board:
 :octocat:
 ☕ :coffee:
+
+| [<img src="https://" alt="alt text" width="32">](https://) | [<img src="https://" alt="alt text" width="30">](https://) | [<img src="https://" alt="alt text" height="32">](mailto:)
+---|---|---
 
 -->
