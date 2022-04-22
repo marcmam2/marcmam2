@@ -25,11 +25,13 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 
 :link::deciduous_tree: https://linktr.ee/torresmjr :point_left:
 
+Thank You! :heart:
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=marcmam2">
 
 [![HitCount](https://hits.dwyl.com/marcmam2/marcmam2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/marcmam2/marcmam2)
-
-Thank You! :heart:
 
 <!--
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
