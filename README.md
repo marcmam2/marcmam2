@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! I'm glad you are here 👋
 
 <img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
 
@@ -53,5 +53,10 @@ cool emojis:
 
 | [<img src="https://" alt="alt text" width="32">](https://) | [<img src="https://" alt="alt text" width="30">](https://) | [<img src="https://" alt="alt text" height="32">](mailto:)
 ---|---|---
+
+<p align="left">
+<a href="https://www.linkedin.com/in/andré-mapa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="mailto:andreomapa01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 -->
