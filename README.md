@@ -4,11 +4,16 @@
 
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
----
+<a href="https://github.com/marcmam2/snaker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcmam2&repo=snaker&theme=dark" />
+</a>
+
+<a href="https://github.com/marcmam2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1" />
+</a>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my github stats" width="360"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&layout=compact&theme=tokyonight" alt="languages" height="140">
+<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub statistics" width="360"/>
 </p>
 
 ---
