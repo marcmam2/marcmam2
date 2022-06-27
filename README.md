@@ -1,12 +1,8 @@
 ## Hi there! I'm glad you are here 👋
 
-<img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
-
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
-<a href="https://github.com/marcmam2/snaker">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcmam2&repo=snaker&theme=dark" />
-</a>
+
 
 <a href="https://github.com/marcmam2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1" />
@@ -56,9 +52,15 @@ cool emojis:
 | [<img src="https://" alt="alt text" width="32">](https://) | [<img src="https://" alt="alt text" width="30">](https://) | [<img src="https://" alt="alt text" height="32">](mailto:)
 ---|---|---
 
+<img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
+
+<a href="https://github.com/marcmam2/snaker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcmam2&repo=snaker&theme=dark" />
+</a>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/andré-mapa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="mailto:andreomapa01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<a href="https://www.linkedin.com/in/torremjr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="mailto:marcmam2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ```javascript
