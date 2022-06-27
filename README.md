@@ -2,24 +2,16 @@
 
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
-
-
-<a href="https://github.com/marcmam2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1" />
-</a>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub statistics" width="384"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="estatísticas das minhas atividades no GitHub" width="384"/>
 
 ---
 
 #### Say hi, I'll be happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/marcmam2) (yes, yes, I know...)
 
-:link::deciduous_tree: https://linktr.ee/torresmjr :point_left:
+landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
 
 Thank You! :heart:
 
@@ -51,6 +43,8 @@ cool emojis:
 
 | [<img src="https://" alt="alt text" width="32">](https://) | [<img src="https://" alt="alt text" width="30">](https://) | [<img src="https://" alt="alt text" height="32">](mailto:)
 ---|---|---
+
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/marcmam2) (yes, yes, I know...)
 
 <img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
 
