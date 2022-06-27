@@ -9,9 +9,9 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 
 landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
-
 Thank You! :heart:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
 <img src="https://komarev.com/ghpvc/?username=marcmam2">
 
