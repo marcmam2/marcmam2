@@ -1,11 +1,7 @@
 ## Hi there! I'm glad you are here 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1"/>
 
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1" />
-<img src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="estatísticas das minhas atividades no GitHub" width="384"/>
-
----
 
 #### Say hi, I'll be happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
@@ -13,9 +9,9 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 
 landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
 
-Thank You! :heart:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
----
+Thank You! :heart:
 
 <img src="https://komarev.com/ghpvc/?username=marcmam2">
 
