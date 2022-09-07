@@ -15,8 +15,6 @@ Thank You! :heart:
 
 <img src="https://komarev.com/ghpvc/?username=marcmam2">
 
-[![HitCount](https://hits.dwyl.com/marcmam2/marcmam2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/marcmam2/marcmam2)
-
 <!--
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
