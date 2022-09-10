@@ -1,4 +1,5 @@
-## Hi there! I'm glad you are here 👋
+## Hi there! I'm glad you are here 👋 <img align="right" src="https://komarev.com/ghpvc/?username=marcmam2">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1"/>
 
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
@@ -6,14 +7,11 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 #### Say hi, I'll be happy to hear from you!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
-
-landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
 
 Thank You! :heart:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
-
-<img src="https://komarev.com/ghpvc/?username=marcmam2">
 
 <!--
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,5 +56,8 @@ const me = {
 ```
 
 <img alt="alt textr" src="https://" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
+
+
+landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
 
 -->
