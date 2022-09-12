@@ -4,12 +4,15 @@
 
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
-#### Say hi, I'll be happy to hear from you!
+Say hi, I'll be happy to hear from you!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
 
-Thank You! :heart:
+Thank You!
+
+<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
