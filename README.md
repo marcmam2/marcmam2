@@ -19,6 +19,22 @@ Thank You!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
 <!--
+
+| Subcommand | Description |
+|:------- |:----------- |
+| `update` |  to update *setup.ini* |
+| `show` |  to show installed packages |
+| `key-list` |  to list keys |
+| `key-finger` |  to list fingerprints |
+| `upgrade-self` |  to upgrade apt-cyg |
+| `dist-upgrade` |  to upgrade all packages that is installed. This subcommand uses **`setup-*.exe`** |
+| `update-setup` |  to update setup.exe |
+| `get-proxy` |  Get proxies for eval. |
+| `ls-categories` |  List categories. |
+| `set-cache [<cache>]` | Set cache. |
+
+
+
 **marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
