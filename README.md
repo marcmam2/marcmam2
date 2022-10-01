@@ -50,8 +50,6 @@ cool emojis:
 | [<img src="https://" alt="alt text" width="32">](https://) | [<img src="https://" alt="alt text" width="30">](https://) | [<img src="https://" alt="alt text" height="32">](mailto:)
 ---|---|---
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/marcmam2) (yes, yes, I know...)
-
 <img width="300px" align="right" src="https://raw.githubusercontent.com/marcmam2/marcmam2/development/-4954486454201985516_121.jpg"/>
 
 <a href="https://github.com/marcmam2/snaker">
@@ -70,7 +68,6 @@ const me = {
 ```
 
 <img alt="alt textr" src="https://" style="width: 100%, height: auto, margin-left: auto, margin-left: auto" />
-
 
 landing page (:link::deciduous_tree:): https://linktr.ee/torresmjr :point_left:
 
