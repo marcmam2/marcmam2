@@ -7,6 +7,7 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 Say hi, I'll be happy to hear from you!
 
 [![GitHub Gist](https://img.shields.io/badge/github%20gist-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/marcmam2)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-fe7a16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11876059/marcos-jr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-00ba73?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
@@ -26,18 +27,8 @@ Thank You!
 | Subcommand | Description |
 |:------- |:----------- |
 | `update` |  to update *setup.ini* |
-| `show` |  to show installed packages |
 | `key-list` |  to list keys |
-| `key-finger` |  to list fingerprints |
-| `upgrade-self` |  to upgrade apt-cyg |
 | `dist-upgrade` |  to upgrade all packages that is installed. This subcommand uses **`setup-*.exe`** |
-| `update-setup` |  to update setup.exe |
-| `get-proxy` |  Get proxies for eval. |
-| `ls-categories` |  List categories. |
-| `set-cache [<cache>]` | Set cache. |
-
-
-
 
 Here are some ideas to get you started:
 
