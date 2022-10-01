@@ -6,9 +6,10 @@ My name is Marcos, and I have a very particular set of skills[.](https://c.tenor
 
 Say hi, I'll be happy to hear from you!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
-[![email](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
+[![GitHub Gist](https://img.shields.io/badge/github%20gist-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/marcmam2)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
+[![email](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
+[![Linktree](https://img.shields.io/badge/linktree-00ba73?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
 
 Thank You!
 
@@ -19,6 +20,8 @@ Thank You!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
 <!--
+
+**marcmam2** ✨ _special_ ✨ `README.md`.
 
 | Subcommand | Description |
 |:------- |:----------- |
@@ -35,7 +38,6 @@ Thank You!
 
 
 
-**marcmam2/marcmam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
