@@ -10,17 +10,17 @@ Say hi, I'll be happy to hear from you!
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-fe7a16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11876059/marcos-jr)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrmarcos/)
 [![email](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
-[![Linktree](https://img.shields.io/badge/linktree-00ba73?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
 
 Thank You!
 
-<br>
 <br>
 <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
 
 <!--
+
+[![Linktree](https://img.shields.io/badge/linktree-00ba73?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
 
 **marcmam2** ✨ _special_ ✨ `README.md`.
 
