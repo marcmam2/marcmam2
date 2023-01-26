@@ -1,7 +1,7 @@
 ## Hi there! I'm glad you are here 👋 <img align="right" src="https://komarev.com/ghpvc/?username=marcmam2">
-
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmam2&theme=dark&hide_langs_below=1"/>
-
+-->
 My name is Marcos, and I have a very particular set of skills[.](https://c.tenor.com/DATBw-bd_ZoAAAAC/taken-set.gif)
 
 Say hi, I'll be happy to hear from you!
@@ -13,9 +13,9 @@ Say hi, I'll be happy to hear from you!
 [![email](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcmam2@gmail.com)
 
 Thank You!
-
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=marcmam2&show_icons=true&theme=tokyonight" alt="my GitHub usage statistics" width="384"/>
-
+-->
 <!--
 
 [![Linktree](https://img.shields.io/badge/linktree-00ba73?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/torresmjr)
